@@ -1,0 +1,1 @@
+window.TASAS_BCV={"actual": {"tasa": 899.2705, "valor": "2026-11-10", "capturado": "2026-11-10T03:11:18-04:00"}, "hist": [{"valor": "2026-11-10", "tasa": 899.2705}]};
