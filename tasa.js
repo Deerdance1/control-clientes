@@ -1,1 +1,1 @@
-window.TASAS_BCV={"actual": {"tasa": 899.2705, "valor": "2026-11-10", "capturado": "2026-11-10T03:11:18-04:00"}, "hist": [{"valor": "2026-11-10", "tasa": 899.2705}]};
+window.TASAS_BCV={"actual": {"tasa": 901.6175, "valor": "2026-11-11", "capturado": "2026-11-10T16:51:05-04:00"}, "hist": [{"valor": "2026-11-11", "tasa": 901.6175}, {"valor": "2026-11-10", "tasa": 899.2705}]};
